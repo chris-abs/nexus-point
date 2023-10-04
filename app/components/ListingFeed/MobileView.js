@@ -12,19 +12,11 @@ const MobileView = ({ data, className }) => {
       {carDataArray.map((car, index) => (
         <div className='py-5' key={index}>
           <div className='w-full flex flex-row overflow-x-scroll px-[13px]'>
-            {car.media_urls && car.media_urls.length > 0 ? (
-              <img
-                className='rounded-xl w-[113px] h-[84px]'
-                src={car.media_urls[0].large}
-                alt={`${car.make} ${car.model}`}
-                onError={(e) => {
-                  e.target.src = '/default-car-image.jpeg'
-                  e.target.onerror = null
-                }}
-              />
-            ) : (
-              <img src='/default-car-image.jpeg' alt='Default Car' />
-            )}
+            <img
+              className='rounded-xl w-[113px] h-[84px]'
+              src={car.media_urls[0].thumb}
+              alt={`${car.make} ${car.model}`}
+            />
           </div>
           <div className='px-5 pt-5'>
             <div>

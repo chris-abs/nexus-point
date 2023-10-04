@@ -1,11 +1,11 @@
 import React from 'react'
 
 import Nav from './Nav'
-import SideBar from './Sidebar'
 import Footer from './Footer'
 import carData from '../../data.json'
 import FinanceBanner from './FinanceBanner'
 import Filters from './Filters'
+import Legal from './Legal'
 
 const Layout = ({ children }) => {
   const data = carData.data
@@ -16,8 +16,8 @@ const Layout = ({ children }) => {
       <FinanceBanner />
       <Filters />
       {children}
-      <SideBar data={data} />
       <Footer data={data} />
+      <Legal />
     </div>
   )
 }

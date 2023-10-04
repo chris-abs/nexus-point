@@ -1,6 +1,6 @@
 const FinanceBanner = () => {
   return (
-    <div className='hidden lg:block h-[137px] bg-blue-500'>Finance banner</div>
+    <div className='hidden lg:block h-[137px] rounded-bl-[50px] bg-[#282338] '></div>
   )
 }
 
