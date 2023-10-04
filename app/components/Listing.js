@@ -61,7 +61,7 @@ const Listing = ({ car, index }) => {
                 ) : (
                   <h3 className='line-through'>£{car.original_price}</h3>
                 )}
-                <h3 className='text-[#7572FF]'>Calculate finance</h3>
+                <h3 className='text-brand-primary'>Calculate finance</h3>
               </div>
             </div>
           </div>

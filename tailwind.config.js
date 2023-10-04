@@ -19,6 +19,7 @@ module.exports = {
         'text-grey': '#55595D',
         'text-disabled': '#A2A9AF',
         'traffic-light-red': '#F87B7B',
+        'brand-primary': '#7572FF',
       },
     },
   },

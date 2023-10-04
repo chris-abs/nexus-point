@@ -1,18 +1,20 @@
 import React from 'react'
 
 import Nav from './Nav'
-import Footer from './Footer'
-import carData from '../../data.json'
+import FilterSection from './FilterSection'
 import FinanceBanner from './FinanceBanner'
 import Filters from './Filters'
+import Footer from './Footer'
 import Legal from './Legal'
+import carData from '../../data.json'
 
 const Layout = ({ children }) => {
   const data = carData.data
 
   return (
-    <div>
+    <div className='relative'>
       <Nav data={data} />
+      <FilterSection />
       <FinanceBanner />
       <Filters />
       {children}

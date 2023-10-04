@@ -3,7 +3,7 @@ import Plus from '../icons/plus'
 const Heading = ({ text, disabled, active }) => (
   <div
     className={`flex justify-between items-center p-[13px]
-      ${active ? 'bg-[#7572FF] rounded-2xl' : ''}
+      ${active ? 'bg-brand-primary rounded-2xl' : ''}
     `}>
     <h5
       className={`text-[16px]
@@ -17,7 +17,7 @@ const Heading = ({ text, disabled, active }) => (
           disabled
             ? 'text-[#D1D6E0]'
             : active
-            ? 'bg-white text-[#7572FF]'
+            ? 'bg-white text-brand-primary'
             : 'text-[#D1D6E0] '
         }
       `}
