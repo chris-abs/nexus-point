@@ -17,6 +17,7 @@ module.exports = {
         'framework-light': '#F6F6FB',
         'framework-dark': '#3F3A50',
         'text-grey': '#55595D',
+        'text-disabled': '#A2A9AF',
         'traffic-light-red': '#F87B7B',
       },
     },

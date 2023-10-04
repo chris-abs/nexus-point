@@ -1,6 +1,8 @@
 import Button from '../Button'
 import DownArrow from '@/app/icons/DownArrow'
 import Listing from '../Listing'
+import Sidebar from '../Sidebar'
+import Chip from '../Chip'
 
 const MainView = ({ data, className }) => {
   const carDataArray = data && data.data ? data.data : []
@@ -8,7 +10,15 @@ const MainView = ({ data, className }) => {
   return (
     <div className={className}>
       <div className='grid grid-cols-2 lg:grid-cols-4 gap-[10px]'>
-        <aside className='hidden lg:block row-span-4'>sidebar content</aside>
+        <Sidebar />
+        <div className='hidden lg:flex items-center gap-2 col-span-3 pb-[30px]'>
+          <h2 className='text-[18px] font-[700] pr-[22px]'>Showing 339 cars</h2>
+          <Chip text='All' active />
+          <Chip text='Used' disabled />
+          <Chip text='New' />
+          <Chip text='Offers' disabled />
+        </div>
+
         {carDataArray.map((car, index) => (
           <Listing car={car} index={index} />
         ))}
