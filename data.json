@@ -493,14 +493,14 @@
       "year": "2013",
       "media_urls": [
         {
-          "large": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082853\\/conversions\\/large.jpg",
-          "thumb": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082853\\/conversions\\/thumb.jpg",
-          "medium": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082853\\/conversions\\/medium.jpg"
+          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1082853/conversions/large.jpg",
+          "thumb": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082853\\/conversions\\/thumb.jpg",
+          "medium": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082853\\/conversions\\/medium.jpg"
         },
         {
-          "large": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082854\\/conversions\\/large.jpg",
-          "thumb": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082854\\/conversions\\/thumb.jpg",
-          "medium": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082854\\/conversions\\/medium.jpg"
+          "large": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082854\\/conversions\\/large.jpg",
+          "thumb": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082854\\/conversions\\/thumb.jpg",
+          "medium": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082854\\/conversions\\/medium.jpg"
         },
         {
           "large": "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/1082852\\/conversions\\/large.jpg",

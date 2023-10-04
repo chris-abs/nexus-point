@@ -1,14 +1,14 @@
 'use client'
 
-import DownArrow from '../icons/DownArrow'
-import Star from '../icons/Star'
-import Button from './Button'
+import DownArrow from '../../icons/DownArrow'
+import Star from '../../icons/Star'
+import Button from '../Button'
 
-const ListingFeed = ({ data }) => {
+const MobileView = ({ data, className }) => {
   const carDataArray = data && data.data ? data.data : []
 
   return (
-    <section className='py-5'>
+    <div className={className}>
       {carDataArray.map((car, index) => (
         <div className='py-5' key={index}>
           <div className='w-full flex flex-row overflow-x-scroll px-[13px]'>
@@ -83,38 +83,36 @@ const ListingFeed = ({ data }) => {
           </div>
         </div>
       ))}
-      <div className='px-[13px]'>
-        <div className='grid grid-cols-6 gap-2 py-[30px]'>
-          <Button>&lt;</Button>
-          <Button>1</Button>
-          <Button>2</Button>
-          <Button>3</Button>
-          <Button>&gt;</Button>
-          <Button>&gt;&gt;</Button>
-        </div>
-        <button className='w-full justify-center underline pb-[30px] text-[16px] text-text-grey'>
-          Back to top
-        </button>
-        <div className='p-[15px] bg-framework-light border-[1px] border-borders rounded-2xl'>
-          <p className='pb-[15px]'>
-            <span className='font-bold'>Representative example:</span> Borrowing
-            £11,790.00 over 4 years with a representative APR of 7.9 %, an
-            annual interest rate of 4.08 % (Fixed) and a deposit of £500.00, the
-            amount payable would be £273.59 per month, with a total cost of
-            credit of £1,843.32 and a total amount payable of £13,633.32.
-          </p>
-          <div className='flex items-center w-full px-[13px] py-[13px] bg-white rounded-2xl'>
-            <button className='flex flex-grow text-[16px] text-text-grey'>
-              Show breakdown
-            </button>
-            <div className='bg-borders rounded-lg p-2'>
-              <DownArrow className='text-white' />
-            </div>
+      <div className='grid grid-cols-6 gap-2 py-[30px]'>
+        <Button>&lt;</Button>
+        <Button>1</Button>
+        <Button>2</Button>
+        <Button>3</Button>
+        <Button>&gt;</Button>
+        <Button>&gt;&gt;</Button>
+      </div>
+      <button className='w-full justify-center underline pb-[30px] text-[16px] text-text-grey'>
+        Back to top
+      </button>
+      <div className='p-[15px] bg-framework-light border-[1px] border-borders rounded-2xl'>
+        <p className='pb-[15px]'>
+          <span className='font-bold'>Representative example:</span> Borrowing
+          £11,790.00 over 4 years with a representative APR of 7.9 %, an annual
+          interest rate of 4.08 % (Fixed) and a deposit of £500.00, the amount
+          payable would be £273.59 per month, with a total cost of credit of
+          £1,843.32 and a total amount payable of £13,633.32.
+        </p>
+        <div className='flex items-center w-full px-[13px] py-[13px] bg-white rounded-2xl'>
+          <button className='flex flex-grow text-[16px] text-text-grey'>
+            Show breakdown
+          </button>
+          <div className='bg-borders rounded-lg p-2'>
+            <DownArrow className='text-white' />
           </div>
         </div>
       </div>
-    </section>
+    </div>
   )
 }
 
-export default ListingFeed
+export default MobileView

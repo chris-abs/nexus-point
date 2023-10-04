@@ -1,5 +1,5 @@
 import Layout from '../components/Layout'
-import ListingFeed from '../components/ListingFeed'
+import ListingFeed from '../components/ListingFeed/ListingFeed'
 import carData from '../../data.json'
 
 const HomePage = () => {
