@@ -506,31 +506,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1082852/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1082852/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1082852/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -2392,31 +2367,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1097308/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1097308/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1097308/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -2930,31 +2880,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1088953/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1088953/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1088953/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -3505,31 +3430,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1096674/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1096674/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1096674/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -4115,31 +4015,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1094091/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1094091/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1094091/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -5254,31 +5129,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1095784/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1095784/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1095784/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -5850,31 +5700,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1093350/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1093350/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1093350/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -6427,31 +6252,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1112928/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1112928/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1112928/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [
@@ -6980,31 +6780,6 @@
           "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1105398/conversions/large.jpg",
           "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1105398/conversions/thumb.jpg",
           "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/1105398/conversions/medium.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/reserve.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/hasslefree.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/adminfees.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/partex.jpg"
-        },
-        {
-          "large": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "thumb": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg",
-          "medium": "https://apex4-production.s3.eu-west-1.amazonaws.com/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8/media/uploads/banners/2018/finance.jpg"
         }
       ],
       "original_media_urls": [

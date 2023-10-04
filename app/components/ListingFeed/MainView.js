@@ -20,7 +20,7 @@ const MainView = ({ data, className }) => {
         </div>
 
         {carDataArray.map((car, index) => (
-          <Listing car={car} index={index} />
+          <Listing car={car} key={index} />
         ))}
       </div>
       <div className='flex w-full justify-between items-center'>
