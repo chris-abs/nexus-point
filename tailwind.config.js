@@ -16,6 +16,8 @@ module.exports = {
         borders: '#D1D6E0',
         'framework-light': '#F6F6FB',
         'framework-dark': '#3F3A50',
+        'text-grey': '#55595D',
+        'traffic-light-red': '#F87B7B',
       },
     },
   },

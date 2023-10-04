@@ -543,8 +543,8 @@
         "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/uploads\\/banners\\/2018\\/partex.jpg",
         "https:\\/\\/apex4-production.s3.eu-west-1.amazonaws.com\\/tenant_c6c1a765-8ab5-439e-bae5-1df553fe98e8\\/media\\/uploads\\/banners\\/2018\\/finance.jpg"
       ],
-      "finance": null,
-      "monthly_payment": null,
+      "finance": true,
+      "monthly_payment": 375,
       "feature_classification": [["Bluetooth", "Aux In", "MP3", "Isofix"]],
       "wheelchair_access": 0
     },
